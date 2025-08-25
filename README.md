@@ -16,7 +16,7 @@ The program also writes results to a backup file (`frequency.dat`) to ensure dat
 1. Make sure `CS210_Project_Three_Input_File.txt` is in the same directory as the source files.  
 2. Compile the program:  
    ```bash
-   g++ main.cpp GroceryTracker.cpp -o CornerGrocer
+   g++ main.cpp -o CornerGrocer
    ```  
 3. Run the executable:  
    ```bash
@@ -56,3 +56,4 @@ CornerGrocer/
 │── frequency.dat
 │── README.md
 ```
+
