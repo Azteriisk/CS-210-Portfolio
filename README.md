@@ -1,3 +1,9 @@
+> **Course**: CS 210: Programming Languages  
+> **Description**: Programming Languages & Algorithms (C++) Portfolio  
+> **Part of**: [CS SWE Degree Path](https://github.com/Azteriisk/CS-SWE-Degree-Path)
+
+---
+
 # Corner Grocer – CS 210 Project  
 
 ## Project Description  
